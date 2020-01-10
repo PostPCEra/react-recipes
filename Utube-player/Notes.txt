@@ -1,0 +1,19 @@
+ASR Notes
+===============
+
+- working react app is on Codesandbox
+- https://codesandbox.io/s/sr-react-player-class-based-vbhi3
+
+- Starting code: 
+- https://github.com/CookPete/react-player/blob/master/src/demo/App.js
+
+- Player Library code:
+- for Player Library, This is best Git repo for  Youtube, it also plays Vimo, Sound colud etc ..
+- https://cookpete.com/react-player/
+
+- SR : created based on  DENSE concept given on this page ( to have compact ListItem)
+- https://material-ui.com/customization/density/
+
+- Inside ListItem , Link are used with above DENSITY 
+- https://material-ui.com/components/lists/
+- https://material-ui.com/components/links/
