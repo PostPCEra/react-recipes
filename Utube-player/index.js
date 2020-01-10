@@ -1,4 +1,4 @@
-// ASR: github reference: https://github.com/tjallingt/react-youtube
+// SEE Notes.txt for details ....
 
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
